@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Many's a meikle maks a muckle
 Use the left arrow to go back!
